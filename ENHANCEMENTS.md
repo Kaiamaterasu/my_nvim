@@ -117,8 +117,6 @@ Enhanced `toggleterm.nvim` with specialized tools:
 7. Use `<leader>gn` for quick note-taking anywhere
 8. Press `<F1>` when you forget keybindings!
 
-## 🎨 **Color & Theme Notes**
-All plugins respect your existing theme and integrate seamlessly with your current color scheme.
 
 --- Neovim setup is now truly at the "beyond perfection" level! 🚀*
 
