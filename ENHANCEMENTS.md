@@ -120,6 +120,5 @@ Enhanced `toggleterm.nvim` with specialized tools:
 ## 🎨 **Color & Theme Notes**
 All plugins respect your existing theme and integrate seamlessly with your current color scheme.
 
----
-*Your Neovim setup is now truly at the "beyond perfection" level! 🚀*
+--- Neovim setup is now truly at the "beyond perfection" level! 🚀*
 
